@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MovieReviewApp</string>
+
+    <string name="slogan">App to End All Movie Review Apps</string>
+    <string name="splash">We Live To Entertain</string>
+    <string name="fbButton">Sign in from Facebook</string>
+    <string name="gmailButton">Sign in from Gmail</string>
+    <string name="createButton">Create Account</string>
+
+    <string name="createText">Create Your Account</string>
+    <string name="fnameText">Enter Your First Name</string>
+    <string name="lnameText">enter Your Last Name</string>
+    <string name="emailText">Enter Your Email</string>
+    <string name="passText">Enter Your Password</string>
+    <string name="SignInText">Sign In!</string>
+
+    <string-array name="title">
+        <item>Interstellar</item>
+        <item>Dawn of the Planet of the Apes</item>
+        <item>The Dark Knight</item>
+        <item>Star Wars The Force Awakens</item>
+        <item>Avengers Infinity Wars</item>
+        <item>John Wick 2</item>
+        <item>Fantastic Beasts and Where to Find Them</item>
+        <item>It</item>
+        <item>Inception</item>
+        <item>Get Out</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>Nov 14 2014 \n Adventure, Drama, Sci-Fi</item>
+        <item>Jul 29 2014 \n Action, Drama, Sci-Fi, Thriller</item>
+        <item>Jul 16 2008 \n Action, Crime, Drama, Thriller</item>
+        <item>Dec 25 2015 \n Action, Adventure, Fantasy, Sci-Fi</item>
+        <item>Apr 27 2018 \n Action, Adventure, Fantasy, Sci-Fi</item>
+        <item>Feb 17 2017 \n Action, Crime, Thriller</item>
+        <item>Nov 25 2016 \n Adventure, Family, Fantasy</item>
+        <item>Sep 08 2017 \n Horror, Thriller</item>
+        <item>Sep 11 2010 \n Action, Adventure, Mystery, Sci-Fi, Thriller</item>
+        <item>Feb 24 2017 \n Horror, Mystery</item>
+    </string-array>
+
+    <string-array name="descript">
+        <item>In the near future Earth has been devastated by drought and famine, causing a scarcity in food and extreme changes in climate. When humanity is facing extinction, a mysterious rip in the space-time continuum is discovered, giving mankind the opportunity to widen their lifespan. A group of explorers must travel beyond our solar system in search of a planet that can sustain life. The crew of the Endurance are required to think bigger and go further than any human in history as they embark on an interstellar voyage, into the unknown. Coop, the pilot of the Endurance, must decide between seeing his children again and the future of the human race.</item>
+        <item>A growing nation of genetically evolved apes led by Caesar is threatened by a band of human survivors of the devastating virus unleashed a decade earlier. They reach a fragile peace, but it proves short-lived, as both sides are brought to the brink of a war that will determine who will emerge as Earth\'s dominant species.</item>
+        <item>Batman raises the stakes in his war on crime. With the help of Lieutenant Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the city streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as The Joker.</item>
+        <item>30 years after the defeat of Darth Vader and the Empire, Rey, a scavenger from the planet Jakku, finds a BB-8 droid that knows the whereabouts of the long lost Luke Skywalker. Rey, as well as a rogue stormtrooper and two smugglers, are thrown into the middle of a battle between the Resistance and the daunting legions of the First Order.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been  uncertain.</item>
+        <item>Bound by an inescapable blood debt to the Italian crime lord, Santino D\'Antonio, and with his precious 1969 Mustang still stolen, John Wick, the taciturn and pitiless assassin who thirsts for seclusion, is forced to visit Italy to honour his promise. But soon, the Boogeyman will find himself dragged into an impossible task in the heart of Rome\'s secret criminal society, as every killer in the business dreams of cornering the legendary Wick who now has an enormous price on his head. Drenched in blood and mercilessly hunted down, John Wick can surely forget a peaceful retirement--but above all--in this lethal ballet of bullets, can he make it out in one piece?</item>
+        <item>The adventures of writer Newt Scamander in New York\'s secret community of witches and wizards seventy years before Harry Potter reads his book in school.</item>
+        <item>In the Town of Derry, the local kids are disappearing one by one, leaving behind bloody remains. In a place known as \'The Barrens\', a group of seven kids are united by their horrifying and strange encounters with an evil clown and their determination to kill It.</item>
+        <item>A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.</item>
+        <item>Chris and his girlfriend Rose go upstate to visit her parent\'s for the weekend. At first, Chris reads the family\'s overly accommodating behavior as nervous attempts to deal with their daughter\'s interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.</item>
+         </string-array>
+
+</resources>

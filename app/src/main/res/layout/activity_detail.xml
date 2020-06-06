@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="18dp"
+    android:background="@drawable/shape">
+
+    <VideoView
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:id="@+id/movieTrailer" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="9dp">
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="180dp"
+            android:id="@+id/moviePoster"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginLeft="9dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/movieTitle"
+                android:textSize="18sp"
+                android:textColor="@color/colorWhite"
+                android:layout_marginTop="18dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/movieDate"
+                android:textSize="14sp"
+                android:textColor="@color/colorGray"
+                android:layout_marginTop="9dp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="9dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/movieDetail"
+            android:textSize="14sp"
+            android:textColor="@color/colorGray"/>
+    </ScrollView>
+</LinearLayout>

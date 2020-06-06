@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="18dp"
+    android:background="@drawable/shape">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textColor="@color/colorWhite"
+        android:textSize="27sp"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/slogan"
+        android:textColor="@color/colorGray"
+        android:textSize="18sp"
+        android:gravity="center"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fbButton"
+        android:text="@string/fbButton"
+        android:drawableLeft="@mipmap/fb"
+        android:background="@color/colorfb"
+        android:textColor="@color/colorWhite"
+        android:layout_marginTop="45dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gmailButton"
+        android:text="@string/gmailButton"
+        android:background="@color/colorgmail"
+        android:textColor="@color/colorWhite"
+        android:layout_marginTop="27dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/createButton"
+        android:text="@string/createButton"
+        android:layout_marginTop="27dp"/>
+
+</LinearLayout>
